@@ -28,3 +28,11 @@ If you are developing a production application, we recommend updating the config
 
 # คำสั่งรัน react 
 ## npm run dev
+
+# เว็บแปลงรูป
+## https://postimages.org/th/
+[![2023-08-28-093952.png](https://i.postimg.cc/3N6WqDQd/2023-08-28-093952.png)](https://postimg.cc/N26g9FMc)
+
+# App.tsx = fromadd.tsx
+
+# main.tsx 

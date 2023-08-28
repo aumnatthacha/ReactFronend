@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import axios from "axios";
 
+
 interface Restaurant {
   id: number;
   createdAt: string;
@@ -10,6 +11,8 @@ interface Restaurant {
   type: string;
   updatedAt: string;
 }
+
+
 
 function App() {
   const [data, setData] = useState<Restaurant[]>([]);
